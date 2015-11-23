@@ -1,0 +1,31 @@
+{
+  "name": "simple-net",
+  "version": "0.0.1",
+  "description": "the node module of simple-net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhouxianjun/simple-net.git"
+  },
+  "author": {
+    "name": "zhouxianjun"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouxianjun/simple-net/issues"
+  },
+  "homepage": "https://github.com/zhouxianjun/simple-net",
+  "dependencies": {
+    "ring": "^2.1.0",
+    "underscore": "*"
+  },
+  "keywords": [
+    "socket",
+    "net",
+    "io",
+    "node"
+  ]
+}
