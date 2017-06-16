@@ -20,6 +20,7 @@
   "homepage": "https://github.com/zhouxianjun/simple-net",
   "dependencies": {
     "ring": "^2.1.0",
+    "tracer-logger": "^1.0.2",
     "underscore": "*"
   },
   "keywords": [
